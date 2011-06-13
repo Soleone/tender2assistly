@@ -1,0 +1,14 @@
+GEM
+  specs:
+    mime-types (1.16)
+    right_aws (1.9.0)
+      right_http_connection (>= 1.2.1)
+    right_http_connection (1.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mime-types (= 1.16.0)
+  right_aws (= 1.9.0)
+  right_http_connection (= 1.2.4)
